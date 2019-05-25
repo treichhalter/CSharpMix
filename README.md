@@ -7,7 +7,7 @@ Template for Simple WPF Application prepard with some usefull frameworks. Calibu
 Organistaion of each View together with its ViewModel and Model in the same namespace.
 e.g. XHome contains all the View, ViewModel and the Model. 
 
-## Used NuGets Test
+## Used NuGets
 
 - Autofac
 - Autofac.log4net
