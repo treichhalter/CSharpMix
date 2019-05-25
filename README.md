@@ -1,6 +1,6 @@
 # Simple WPF Application Template
 
-Template for Simple WPF Application prepard with some usefull frameworks. Caliburn Micro for mvvm with Autofac and for a pritty look and feel MaterialDesignThemes for wpf.
+Template for Simple WPF Application prepard with some usefull frameworks. Caliburn Micro for mvvm with Autofac and for a pretty look and feel MaterialDesignThemes for wpf.
 
 ## Folder structure informations
 
