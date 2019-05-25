@@ -4,7 +4,7 @@ Template for Simple WPF Application prepard with some usefull frameworks. Calibu
 
 ## Folder structure informations
 
-Organistaion of each View together with its ViewModel and Model in the same namespace
+Organistaion of each View together with its ViewModel and Model in the same namespace.
 e.g. XHome contains all the View, ViewModel and the Model. 
 
 ## Used NuGets Test
